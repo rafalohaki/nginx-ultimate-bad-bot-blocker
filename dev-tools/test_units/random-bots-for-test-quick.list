@@ -1,10 +1,10 @@
-BotALot
-CSHttp
-Dragonfly
-EyeNetIE
-IlseBot
-Offline Navigator
-Ripper
-ScanAlert
-Swiftbot
-WebCopier
+BacklinkCrawler
+LWP::Simple
+MFC_Tear_Sample
+Nibbler
+PECL::HTTP
+POE-Component-Client-HTTP
+Pi-Monster
+Picscout
+Szukacz
+TightTwatBot
