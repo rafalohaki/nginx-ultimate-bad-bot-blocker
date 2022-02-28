@@ -1,10 +1,10 @@
-Acunetix
-CSHttp
-DomainSigmaCrawler
-Humanlinks
-LeechGet
-Nikto
-RankurBot
-SalesIntelligent
-Web Fetch
-WebsiteExtractor
+BDFetch
+DomainAppender
+FyberSpider
+POE-Component-Client-HTTP
+Ripper
+Screaming
+SiteSnagger
+Voil
+facebookscraper
+scalaj-http
